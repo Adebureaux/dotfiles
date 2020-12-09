@@ -1,1 +1,9 @@
-.gitconfig
+[user]
+	name = Augustin Debureaux
+	email = adebureaux@gmail.com
+[credential]
+	helper = osxkeychain
+[core]
+	editor = atom --wait
+[alias]
+	co = checkout
